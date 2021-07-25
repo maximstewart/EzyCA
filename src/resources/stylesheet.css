@@ -1,0 +1,19 @@
+/* * {
+    background: rgba(0, 0, 0, 0.14);
+    background: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+notebook > header {
+    border-color: rgba(0, 232, 255, 0.64);
+}
+
+* selection {
+ background-color: rgba(75, 0, 116, 0.65);
+ color: rgba(255, 255, 255, 0.5);
+}
+
+textarea.view {
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 1);
+} */
